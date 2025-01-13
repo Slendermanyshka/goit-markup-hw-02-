@@ -2,6 +2,11 @@
     --backgroundColorBlack: #2f303a;
     --highlightColor: #2196f3;
     }
+    body {
+        background-color: #ffffff;
+        color: 434455 ;
+        font-family: "Roboto", sans-serif , "Segoe UI", Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    }
     .header {
       background-color: #ececec;
       display: inline-flex;
@@ -26,11 +31,8 @@
       color: #000000;
       text-decoration: none;
     }
+    /* 
     
-    .body {
-      background-color: #ffffff;
-      font-family: "Roboto", BlinkMacSystemFont, "Segoe UI", Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-    }
     
     .menu-nav a {
       text-decoration: none;
@@ -250,4 +252,4 @@
     
     .address p{
     color: #ffffff;
-    }
+    } */
