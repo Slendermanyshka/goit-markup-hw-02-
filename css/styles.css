@@ -57,81 +57,41 @@ a {
 .header-contacts-link:focus {
   color: #404bbf;
 }
-    /* 
-    
-    
-    .menu-nav a {
-      text-decoration: none;
-      color: #000000;
-    }
-    .menu-nav a:hover {
-      color: var(--highlightColor);
-    }
-    .menu-nav a:focus {
-      color: var(--highlightColor);
-    }
-    .menu-nav li {
-      text-decoration: none;
-      display: inline;
-      margin-left: 50px;
-      padding: 3px;
-    }
-    .menu-nav {
-      text-decoration: none;
-      font-weight: 500;
-      font-size: 14px;
-      margin-left: 93px;
-      color: #000000;
-    }
-    .contacts {
-      margin-left: auto;
-      margin-right: 215px;
-    }
-    .contacts a {
-      text-decoration: none;
-      font-weight: 500;
-      font-size: 14px;
-      color: #757575;
-      margin-left: 50px;
-    }
-    .contacts a:hover {
-      color: var(--highlightColor);
-    }
-    .contacts a:focus {
-      color: var(--highlightColor); 
-    }
-    
-    
-    
-    .hat {
-      background-color: var(--backgroundColorBlack);
-      width: 1600px;
-      height: 600px;
-    }
-    .hat button {
-      margin-top: 30px;
-      width: 200px;
-      height: 50px;
-      font-size: 16px;
-      color: #ffffff;
-      background-color: var(--highlightColor);
-    }
-    .hat button:hover{
-    color: #2f303a;
+
+.hat {
+  background-color: #2E2F42;
+  width: 1600px;
+  height: 600px;
+  color: #ffffff;
+}
+.hat button {
+  margin-top: 30px;
+  width: 200px;
+  height: 50px;
+  font-size: 16px;
+  color: #ffffff;
+  background-color: #4D5AE5;
+}
+.hat button:hover{
+color: #2f303a;
+background-color: #ffffff;
+}
+.hat button:focus{
+    color: #2E2F42;
     background-color: #ffffff;
-    }
-    .hat button:focus{
-        color: var(--backgroundColorBlack);
-        background-color: #ffffff;
-    }
-    .hat p{
-      font-size: 44px;
-      line-height: 60px;
-      color: #ffffff;
+}
+.hat p{
+  font-size: 44px;
+  line-height: 60px;
+  color: #ffffff;
+
+  letter-spacing: 0.06em;
+  text-align: center;
+}
+    /*  
     
-      letter-spacing: 0.06em;
-      text-align: center;
-    }
+    
+    
     
     
     
