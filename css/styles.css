@@ -2,6 +2,7 @@ body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
+  
 }
 
 ul,ol {
@@ -96,36 +97,30 @@ background-color: #404BBF
   letter-spacing: 0.06em;
   text-align: center;
 }
-    /*  
-    
-    
-    
-    
-    
-    
-    .specifications li{
-        list-style-type: none;
-        text-decoration: none;
-        display: inline-block;
-        max-width: 270px;
-        margin-left: 30px;
-        max-height: 70px;
-    }
-    .specifications h3{
-      font-weight: 700;
-      line-height: 171%;
-      color: #212121;
-      font-size: 14px;
-      font-style: normal;
-    
-    }
-    .specifications p{
-        font-weight: 400;
-        line-height: 171%;
-        color: #757575;
-        font-size: 14px;
-        font-style: normal;
-    }
+.specifications-li{
+  
+  list-style-type: none;
+  text-decoration: none;
+  display: inline-block;
+
+}
+.specifications-h3{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color:#2E2F42;
+font-style: normal;
+
+}
+.specifications-p{
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #757575;
+  font-size: 14px;
+  font-style: normal;
+}
     
     
     .activities li{
