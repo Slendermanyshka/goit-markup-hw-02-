@@ -187,8 +187,39 @@ background-color: #404BBF
     letter-spacing: 0.02em;
     color: #434455 ;
     }
-  
-  /* .selection-portfolio button {
+
+
+    .footer {
+      background-color: #2e2f42;
+
+    }
+    .footer-p{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    }
+    
+/*     
+    .address {
+      font-family: "Roboto", sans-serif;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      letter-spacing: 0.02em;
+      line-height: 200%;
+    }
+    .address li{
+      list-style-type: none;
+      text-decoration: none;
+    }
+    .address span{
+      color:#ffffff ;
+      }
+    
+    .address p{
+    color: #ffffff;
+    } 
+  .selection-portfolio button {
     font-family: Roboto, BlinkMacSystemFont, 'Segoe UI',  Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
    
     background-color: #f5f3fa;
@@ -215,15 +246,7 @@ background-color: #404BBF
 font-weight: 700;
 font-size: 36px;
 }    
-    
-    
-   
-    
-    
-    
-    
-    
-    .selection-menu {
+ .selection-menu {
       font-family: "Roboto", sans-serif;
     }
     .selection-menu li {
@@ -245,7 +268,8 @@ font-size: 36px;
       line-height: 30px;
       letter-spacing: 0.03em;
       color: #757575;
-    }
+    } 
+   
     
     .footer {
       padding-inline: 215px;
