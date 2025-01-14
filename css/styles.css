@@ -127,17 +127,20 @@ background-color: #404BBF
 }
 .team-h2{
   font-weight: 500;
-  font-size: 16px;
-  color: #212121;
-}
-.team-h3{
-  font-weight: 500;
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2E2F42;
+  font-style: normal;
+}
+.team-h3{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color:#2E2F42;
   font-style: normal;
 }
 .team-li{
@@ -150,7 +153,7 @@ background-color: #404BBF
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #757575;
+  color: #434455 ;
   }
 
   /*  
