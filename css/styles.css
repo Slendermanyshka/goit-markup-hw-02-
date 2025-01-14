@@ -102,7 +102,7 @@ background-color: #404BBF
   list-style-type: none;
   text-decoration: none;
 }
-.specifications-h3{
+.specifications-title{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -124,7 +124,7 @@ background-color: #404BBF
 .team{
   background-color: #f4f4fd;
 }
-.team-h2{
+.team-title{
   font-weight: 500;
   font-size: 36px;
   line-height: 1.11;
@@ -134,7 +134,7 @@ background-color: #404BBF
   color: #2E2F42;
   font-style: normal;
 }
-.team-h3{
+.team-title{
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -159,7 +159,7 @@ background-color: #404BBF
     text-decoration: none;
     list-style-type: none;
   }
-  .portfolio-h2{
+  .portfolio-title{
     font-weight: 500;
     font-size: 36px;
     line-height: 1.11;
@@ -169,7 +169,7 @@ background-color: #404BBF
     color: #2E2F42;
     font-style: normal;
   }
-  .portfolio-h3{
+  .portfolio-small-title{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
