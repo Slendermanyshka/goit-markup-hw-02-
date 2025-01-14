@@ -101,7 +101,6 @@ background-color: #404BBF
 .specifications-li{
   list-style-type: none;
   text-decoration: none;
-  display: inline-block;
 }
 .specifications-h3{
   font-weight: 500;
@@ -144,7 +143,6 @@ background-color: #404BBF
   font-style: normal;
 }
 .team-li{
-  display: inline-block;
   text-align: center;
   background-color: #ffffff;
   }
@@ -158,7 +156,6 @@ background-color: #404BBF
 
 
   .portfolio-li {
-    display: inline;
     text-decoration: none;
     list-style-type: none;
   }
