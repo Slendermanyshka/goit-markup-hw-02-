@@ -97,12 +97,12 @@ background-color: #404BBF
   letter-spacing: 0.06em;
   text-align: center;
 }
+
+
 .specifications-li{
-  
   list-style-type: none;
   text-decoration: none;
   display: inline-block;
-
 }
 .specifications-h3{
   font-weight: 500;
@@ -110,8 +110,7 @@ background-color: #404BBF
   line-height: 1.2;
   letter-spacing: 0.02em;
   color:#2E2F42;
-font-style: normal;
-
+  font-style: normal;
 }
 .specifications-p{
   font-weight: 400;
@@ -122,16 +121,16 @@ font-style: normal;
   font-style: normal;
 }
     
-    
-    .activities li{
-      list-style-type: none;
-      display: inline;
-      margin-left: 30px;
-    }
-    .activities , h2{
-    font-weight: 700;
-    font-size: 36px;
-    }
+  /*  
+.activities li{
+  list-style-type: none;
+  display: inline;
+  margin-left: 30px;
+}
+.activities , h2{
+font-weight: 700;
+font-size: 36px;
+}    
     
     
     .team li{
